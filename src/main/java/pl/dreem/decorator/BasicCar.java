@@ -1,6 +1,6 @@
 package pl.dreem.decorator;
 
-public class BasicCar implements Car {
+class BasicCar implements Car {
 
     @Override
     public String getDescription() {

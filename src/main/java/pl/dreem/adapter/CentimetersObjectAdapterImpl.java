@@ -1,6 +1,6 @@
 package pl.dreem.adapter;
 
-public class CentimetersObjectAdapterImpl implements CentimetersAdapter{
+class CentimetersObjectAdapterImpl implements CentimetersAdapter{
 
     FacadeMeters meters = new FacadeMeters();
 

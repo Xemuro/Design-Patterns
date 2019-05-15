@@ -1,6 +1,6 @@
 package pl.dreem.adapter;
 
-public interface CentimetersAdapter {
+ interface CentimetersAdapter {
 
     Meters get100Centimeters();
 

@@ -1,6 +1,6 @@
 package pl.dreem.decorator;
 
-public interface Car {
+interface Car {
 
     String getDescription();
 

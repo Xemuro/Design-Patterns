@@ -1,6 +1,6 @@
 package pl.dreem.adapter;
 
-public class Meters {
+class Meters {
 
     private int meters;
 

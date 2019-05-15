@@ -1,6 +1,6 @@
 package pl.dreem.adapter;
 
-public class CentimetersClassAdapterImpl extends FacadeMeters implements CentimetersAdapter {
+class CentimetersClassAdapterImpl extends FacadeMeters implements CentimetersAdapter {
 
     @Override
     public Meters get100Centimeters() {

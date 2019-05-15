@@ -1,6 +1,6 @@
 package pl.dreem.decorator;
 
-public class BasicCarWithWheels implements Car{
+class BasicCarWithWheels implements Car{
 
     private final Car car;
 
